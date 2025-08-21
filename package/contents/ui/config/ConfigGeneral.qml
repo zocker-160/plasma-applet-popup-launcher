@@ -98,12 +98,9 @@ Item {
                 anchors.left: parent.left
                 anchors.right: parent.right
 
-                //anchors.bottom: parent.bottom
+                anchors.bottom: parent.bottom
                 anchors.top: addAppButton.bottom
                 anchors.topMargin: 10
-
-                //width: 300
-                height: 200
 
                 border {
                     width: 1
